@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: a3fb6823424c5dc4ea04b8cc8b2706f5
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5110039047384880312
+    second: AvengerPoses
+  - first:
+      74: -3934419466184444730
+    second: Hulk Smash
+  - first:
+      74: -2770089149673186678
+    second: Ironman Hover
+  - first:
+      74: 1163886105890045092
+    second: Dr. Strange
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AvengerPoses
+      takeName: AvengerPoses
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 3247
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hulk Smash
+      takeName: AvengerPoses
+      internalID: 0
+      firstFrame: 160
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ironman Hover
+      takeName: AvengerPoses
+      internalID: 0
+      firstFrame: 1110
+      lastFrame: 1779.9999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dr. Strange
+      takeName: AvengerPoses
+      internalID: 0
+      firstFrame: 2300
+      lastFrame: 2950
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Shrek_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: AvengerPoses(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Hips
+      parentName: AvengerPoses(Clone)
+      position: {x: 0, y: 0.9042411, z: 0}
+      rotation: {x: 0.030879939, y: -0.06284597, z: -0.0127577735, w: 0.9974638}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Spine
+      parentName: Shrek_Hips
+      position: {x: -0, y: 0.08060322, z: 0}
+      rotation: {x: -0.05459739, y: 0.018047454, z: 0.037293423, w: 0.99764854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Spine1
+      parentName: Shrek_Spine
+      position: {x: -0.0000040382147, y: 0.22673655, z: -0.000002503395}
+      rotation: {x: 0.036623627, y: 0.005959778, z: -0.039716028, w: 0.9985218}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Neck
+      parentName: Shrek_Spine1
+      position: {x: -0, y: 0.22919805, z: 0}
+      rotation: {x: 0.054515917, y: 0.022951217, z: 0.023203602, w: 0.9979794}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Head
+      parentName: Shrek_Neck
+      position: {x: -0, y: 0.17117912, z: 0.022087628}
+      rotation: {x: -0.021848993, y: 0.031006524, z: -0.034448445, w: 0.99868643}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftShoulder
+      parentName: Shrek_Spine1
+      position: {x: -0.039829075, y: 0.1818853, z: -0.0025535226}
+      rotation: {x: 0.04576263, y: -0.038768142, z: -0.047766622, w: 0.9970563}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftArm
+      parentName: Shrek_LeftShoulder
+      position: {x: -0.14370123, y: 0, z: 0}
+      rotation: {x: 0.16550948, y: 0.05993743, z: 0.06445828, w: 0.9822725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftForeArm
+      parentName: Shrek_LeftArm
+      position: {x: -0.25359854, y: 0, z: 0}
+      rotation: {x: 0.0007804781, y: 0.036105476, z: -0.0058833137, w: 0.9993304}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftHand
+      parentName: Shrek_LeftForeArm
+      position: {x: -0.2982095, y: 0.000004529953, z: 0.0000077188015}
+      rotation: {x: 0.0009190745, y: 0.025406891, z: 0.07926104, w: 0.99652964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightShoulder
+      parentName: Shrek_Spine1
+      position: {x: 0.038719937, y: 0.1818853, z: -0.0025535226}
+      rotation: {x: 0.017209329, y: 0.10953136, z: 0.062221244, w: 0.9918847}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightArm
+      parentName: Shrek_RightShoulder
+      position: {x: 0.14370123, y: 0, z: 0}
+      rotation: {x: 0.24557038, y: -0.1166907, z: -0.022090271, w: 0.9620762}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightForeArm
+      parentName: Shrek_RightArm
+      position: {x: 0.25359854, y: 0, z: 0}
+      rotation: {x: 0.10180737, y: -0.029787857, z: 0.009906546, w: 0.9943087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightHand
+      parentName: Shrek_RightForeArm
+      position: {x: 0.2716593, y: 0.000001475215, z: 0.000001758337}
+      rotation: {x: 0.102427505, y: -0.02292117, z: -0.06286515, w: 0.99248743}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftUpLeg
+      parentName: Shrek_Hips
+      position: {x: -0.098296605, y: 0, z: 0}
+      rotation: {x: 0.01007327, y: -0.022576658, z: -0.0026203163, w: 0.99969095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftLeg
+      parentName: Shrek_LeftUpLeg
+      position: {x: -0, y: -0.4683759, z: 0}
+      rotation: {x: -0.042133063, y: -0.14372452, z: 0.0011028348, w: 0.9887198}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftFoot
+      parentName: Shrek_LeftLeg
+      position: {x: -0, y: -0.412912, z: 0}
+      rotation: {x: -0.17173992, y: 0.10503278, z: 0.11099912, w: 0.9732177}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftToeBase
+      parentName: Shrek_LeftFoot
+      position: {x: -0, y: -0.06389279, z: 0.14744492}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightUpLeg
+      parentName: Shrek_Hips
+      position: {x: 0.098296605, y: 0, z: 0}
+      rotation: {x: -0.008363821, y: 0.08545, z: 0.09983972, w: 0.9912923}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightLeg
+      parentName: Shrek_RightUpLeg
+      position: {x: -0, y: -0.4683759, z: 0}
+      rotation: {x: 0.029040305, y: -0.12091726, z: -0.09735333, w: 0.9874503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightFoot
+      parentName: Shrek_RightLeg
+      position: {x: -0, y: -0.412912, z: 0}
+      rotation: {x: -0.24818778, y: 0.1803291, z: 0.055713758, w: 0.9501475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightToeBase
+      parentName: Shrek_RightFoot
+      position: {x: -0, y: -0.06389279, z: 0.14744492}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

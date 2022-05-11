@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 94abd0f9564fd684aaab304129494955
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4466921079392790796
+    second: NeoBulletDodge
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: NeoBulletDodge
+      takeName: NeoBulletDodge_audio_001
+      internalID: 0
+      firstFrame: 550
+      lastFrame: 1612.9999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Shrek_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shrek_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: NeoBulletDodge_audio(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Hips
+      parentName: NeoBulletDodge_audio(Clone)
+      position: {x: 0.000000007450581, y: 0.93861496, z: 0}
+      rotation: {x: 0.01424087, y: -0.02770451, z: -0.006632929, w: 0.99949276}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Spine
+      parentName: Shrek_Hips
+      position: {x: -0, y: 0.08060322, z: 0}
+      rotation: {x: -0.049307015, y: 0.015111383, z: 0.02855196, w: 0.99826115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Spine1
+      parentName: Shrek_Spine
+      position: {x: 0.000000037252903, y: 0.20860402, z: 0.000000059604645}
+      rotation: {x: 0.0027985377, y: 0.00498865, z: -0.04084275, w: 0.99914926}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Neck
+      parentName: Shrek_Spine1
+      position: {x: -0, y: 0.22919805, z: 0}
+      rotation: {x: 0.20824419, y: -0.055155024, z: 0.03960068, w: 0.97571725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_Head
+      parentName: Shrek_Neck
+      position: {x: -0, y: 0.17117912, z: 0.022087628}
+      rotation: {x: 0.13972048, y: -0.05461913, z: 0.021351002, w: 0.9884529}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftShoulder
+      parentName: Shrek_Spine1
+      position: {x: -0.039829075, y: 0.1818853, z: -0.0025535226}
+      rotation: {x: 0.040276363, y: -0.03808871, z: -0.041387748, w: 0.9976042}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftArm
+      parentName: Shrek_LeftShoulder
+      position: {x: -0.14370123, y: 0, z: 0}
+      rotation: {x: 0.020388903, y: 0.054097954, z: 0.077502206, w: 0.9953146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftForeArm
+      parentName: Shrek_LeftArm
+      position: {x: -0.25359854, y: 0, z: 0}
+      rotation: {x: -0.059625927, y: 0.028413855, z: -0.023045886, w: 0.9975502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftHand
+      parentName: Shrek_LeftForeArm
+      position: {x: -0.26893884, y: -0.00000011920929, z: 0}
+      rotation: {x: -0.053853348, y: 0.13791727, z: 0.083848916, w: 0.98541766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightShoulder
+      parentName: Shrek_Spine1
+      position: {x: 0.038719937, y: 0.1818853, z: -0.0025535226}
+      rotation: {x: 0.0070609916, y: 0.14375164, z: 0.035509255, w: 0.9889513}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightArm
+      parentName: Shrek_RightShoulder
+      position: {x: 0.14370123, y: 0, z: 0}
+      rotation: {x: -0.011381952, y: -0.13269752, z: -0.03271407, w: 0.99055123}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightForeArm
+      parentName: Shrek_RightArm
+      position: {x: 0.25359854, y: 0, z: 0}
+      rotation: {x: -0.21594661, y: -0.022723455, z: 0.041292164, w: 0.97526693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightHand
+      parentName: Shrek_RightForeArm
+      position: {x: 0.26043734, y: 0.00000023841858, z: 0}
+      rotation: {x: -0.21236855, y: -0.105545565, z: -0.102482036, w: 0.96605235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftUpLeg
+      parentName: Shrek_Hips
+      position: {x: -0.098296605, y: 0, z: 0}
+      rotation: {x: 0.048436753, y: 0.004633162, z: -0.010333276, w: 0.9987621}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftLeg
+      parentName: Shrek_LeftUpLeg
+      position: {x: -0, y: -0.4683759, z: 0}
+      rotation: {x: -0.038262904, y: -0.104350455, z: 0.001559056, w: 0.9938031}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftFoot
+      parentName: Shrek_LeftLeg
+      position: {x: -0, y: -0.412912, z: 0}
+      rotation: {x: -0.09850298, y: 0.08936749, z: 0.08197533, w: 0.98771995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_LeftToeBase
+      parentName: Shrek_LeftFoot
+      position: {x: -0, y: -0.06389279, z: 0.14744492}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightUpLeg
+      parentName: Shrek_Hips
+      position: {x: 0.098296605, y: 0, z: 0}
+      rotation: {x: 0.03471281, y: -0.0039283354, z: 0.06404995, w: 0.9973351}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightLeg
+      parentName: Shrek_RightUpLeg
+      position: {x: -0, y: -0.4683759, z: 0}
+      rotation: {x: 0.016871741, y: -0.00084071374, z: -0.07127198, w: 0.99731386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightFoot
+      parentName: Shrek_RightLeg
+      position: {x: -0, y: -0.412912, z: 0}
+      rotation: {x: -0.16237561, y: 0.101080045, z: -0.005180326, w: 0.9815244}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shrek_RightToeBase
+      parentName: Shrek_RightFoot
+      position: {x: -0, y: -0.06389279, z: 0.14744492}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
